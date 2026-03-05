@@ -15,3 +15,5 @@ for port in range(1, 1025):
         print(f"Port {port} is open")
 
     s.close()
+#print script has completed
+print("script successfully completed")
